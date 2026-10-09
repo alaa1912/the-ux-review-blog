@@ -1015,7 +1015,7 @@ body {
   gap: 60px;
 }
 
-.logo {
+.footer .logo {
   display: flex;
   align-items: center;
   gap: 16px;
